@@ -1,0 +1,7 @@
+fig:diagram-PLSDA
+fig:sampleplot-PLSDA
+fig:corrplot-PLSDA
+fig:diablo-diagram
+fig:sampleplot-diablo
+fig:circosplot-diablo
+fig:datasets
