@@ -5,3 +5,4 @@ fig:diablo-diagram
 fig:sampleplot-diablo
 fig:circosplot-diablo
 fig:datasets
+fig:edgeR-diagram
